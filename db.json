@@ -1,0 +1,81 @@
+{
+  "allVideos": [
+    {
+      "id": "40",
+      "caption": "film",
+      "url": "https://tse3.mm.bing.net/th?id=OIP.ZDuBODEJlUAEvkz6JAeodQHaEK&pid=Api&P=0&h=180",
+      "link": "https://www.youtube.com/embed/=7FLxInubR5"
+    },
+    {
+      "id": "1",
+      "name": "",
+      "url": "https://img.theweek.in/content/dam/week/news/entertainment/images/2024/2/20/goat-life.jpg",
+      "link": "https://www.youtube.com/embed/=0K5bMylKaN",
+      "caption": "trailer"
+    },
+    {
+      "id": "5",
+      "caption": "song",
+      "url": "https://thesouthfirst.com/wp-content/uploads/2023/12/Manjummel-Boys-e1702101636227-750x375.jpg",
+      "link": "https://www.youtube.com/embed/=W6-O00alJU"
+    },
+    {
+      "id": "6",
+      "name": "",
+      "url": "https://tse2.mm.bing.net/th?id=OIP.6-ihDdYjAlGlraJHocP0OAHaEK&pid=Api&P=0&h=180",
+      "link": "https://www.youtube.com/embed/=50GJ7D_00N",
+      "caption": "trailer"
+    }
+  ],
+  "history": [
+    {
+      "caption": "trailer",
+      "link": "https://www.youtube.com/embed/=0K5bMylKaN",
+      "timeStamp": "04/01/2024, 11:58:53 AM",
+      "id": 1
+    },
+    {
+      "caption": "film",
+      "link": "https://www.youtube.com/embed/=7FLxInubR5",
+      "timeStamp": "04/01/2024, 11:58:56 AM",
+      "id": 2
+    },
+    {
+      "caption": "song",
+      "link": "https://www.youtube.com/embed/=id848Ww1YL",
+      "timeStamp": "04/01/2024, 11:58:59 AM",
+      "id": 3
+    },
+    {
+      "caption": "trailer",
+      "link": "https://www.youtube.com/embed/=0K5bMylKaN",
+      "timeStamp": "04/01/2024, 11:59:10 AM",
+      "id": 4
+    },
+    {
+      "caption": "trailer",
+      "link": "https://www.youtube.com/embed/=0K5bMylKaN",
+      "timeStamp": "04/01/2024, 12:02:09 PM",
+      "id": 5
+    },
+    {
+      "caption": "song",
+      "link": "https://www.youtube.com/embed/=id848Ww1YL",
+      "timeStamp": "04/01/2024, 12:02:53 PM",
+      "id": 6
+    },
+    {
+      "caption": "trailer",
+      "link": "https://www.youtube.com/embed/=0K5bMylKaN",
+      "timeStamp": "04/01/2024, 12:02:58 PM",
+      "id": 7
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "trailer",
+      "allVideos": [],
+      "id": 1
+    }
+  ]
+}
